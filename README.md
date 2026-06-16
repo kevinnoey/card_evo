@@ -24,7 +24,7 @@
 ## 安卓安装包与windows可执行文件
 
 
-见release
+见[release](https://github.com/kevinnoey/card_evo/releases/tag/V1.0)
 
 
 ## 操作方式
