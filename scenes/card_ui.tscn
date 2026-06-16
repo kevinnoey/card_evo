@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://bkktg88h4glkm"]
+
+[ext_resource type="Script" uid="uid://bf1hun13c33d0" path="res://scripts/ui/card_ui.gd" id="1_card_ui"]
+
+[node name="CardUI" type="Control" unique_id=1508503383]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 240.0
+offset_bottom = 330.0
+script = ExtResource("1_card_ui")
